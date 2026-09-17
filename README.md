@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/h1r448mk/20260512-103126-2.jpg" alt="Tanay Biswas Bandhan" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://i.ibb.co/h1r448mk/20260512-103126-2.jpg" alt="Tanay Biswas Bandhan" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;" />
 
   # Hi there, I'm Tanay Biswas Bandhan 👋
-  ### *Creative Software Engineer | Full-Stack Architect*
+  ### *Creative Software Engineer | Full-Stack Architect | UI/UX Enthusiast*
 
   <p>
-    <img src="https://img.shields.io/badge/ID-253--35--094-blue?style=for-the-badge&logo=google-classroom&logoColor=white" alt="DIU ID">
-    <img src="https://img.shields.io/badge/University-DIU-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="DIU">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Roles-orange?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/DIU_ID-253--35--094-blue?style=for-the-badge&logo=google-classroom&logoColor=white" alt="DIU ID">
+    <img src="https://img.shields.io/badge/University-DIU_Software_Engineering-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="DIU">
+    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-orange?style=for-the-badge" alt="Status">
   </p>
 
   <p>
@@ -18,47 +18,61 @@
     <a href="mailto:tanaybiswas705@gmail.com">
       <img src="https://img.shields.io/badge/📫_Get_In_Touch-Email_Me-blueviolet?style=for-the-badge" alt="Email">
     </a>
+    <a href="https://github.com/tanaybiswas-exe" target="_blank">
+      <img src="https://img.shields.io/badge/github-%2312100e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
   </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
-- 🎓 **Education:** B.Sc. in Software Engineering at Daffodil International University (DIU). Focusing heavily on algorithms, state architecture, and software design patterns.
-- 💡 **Passion:** Building scalable intelligent web applications, cloud integrations, and exploring generative AI tools.
-- 🛠️ **Portfolio Highlights:** Developed an interactive portfolio featuring **Glassmorphism design**, **Interactive CLI Terminal**, **AI Assistant (Gemini integration)**, and secure **Control Center / Admin dashboard**.
+## 💡 About Me
+- 🎓 **Education:** B.Sc. in Software Engineering at Daffodil International University (DIU). Deeply passionate about advanced algorithms, state architecture, and software design patterns.
+- 🚀 **Core Focus:** Architecting modern web applications, scalable cloud integrations, and exploring generative AI tools.
+- 🎯 **Mission:** Delivering ultra-fast, high-standard software solutions, maintaining open-source projects, and driving innovation in the developer ecosystem.
 - 📍 **Location:** Dhaka, Bangladesh.
 
 ---
 
-## ⚡ Interactive Portfolio Features
-- **Minimal Light & Cyber Cyan Theme Switcher** ☀️/⚡
-- **Interactive CLI Terminal** (`tanay@portfolio-cli:~$`) 💻
-- **Gemini AI Assistant Integration** 🤖
-- **Protected Admin Control Center** for live stats & database tracking 📊
+## ⚡ Interactive Portfolio Highlights (`tanay-exe.tiiny.site`)
+My personal portfolio is crafted with advanced glassmorphism and modern web technologies, featuring:
+- 🌗 **Dynamic Themes:** Minimal Light & Cyber Cyan theme switcher.
+- 💻 **Interactive CLI Terminal:** A built-in terminal (`tanay@portfolio-cli:~$`) for exploring commands.
+- 🤖 **Gemini AI Assistant:** Integrated virtual assistant to answer queries about my stack and projects.
+- 📊 **Protected Control Center:** Secure admin dashboard for tracking live views, database items, and messages.
 
 ---
 
-## 🛠️ Technical Skillset & Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-</p>
+## 🛠️ Technical Skillset & Expertise
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend & Design** | HTML5, CSS3, JavaScript, Glassmorphism UI, Responsive Interfaces |
+| **Architecture & Logic** | Full-Stack Systems, Software Design Patterns, State Architecture |
+| **Cloud & Tools** | Git, GitHub, Vercel, Cloud Integrations |
+| **AI & Emerging Tech** | Generative AI Tools Integration, Interactive CLI, AI Assistants |
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats & Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanaybiswas-exe&show_icons=true&theme=radical" alt="Tanay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanaybiswas-exe&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tanay's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaybiswas-exe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
+
+## 📫 Let's Connect & Collaborate
+- **Portfolio Website:** [tanay-exe.tiiny.site](https://tanay-exe.tiiny.site/)
+- **Direct Email:** tanaybiswas705@gmail.com
+- **GitHub Profile:** [@tanaybiswas-exe](https://github.com/tanaybiswas-exe)
 
 <div align="center">
-  <p>⚡ <em>Building ultra-fast high-standard software solutions and maintaining modern web interfaces.</em></p>
+  <br/>
+  <p>⚡ <em>"Building scalable intelligent applications and interfaces for the future."</em></p>
 </div>
