@@ -68,7 +68,7 @@ My personal portfolio is crafted with advanced glassmorphism and modern web tech
 ---
 
 ## 📫 Let's Connect & Collaborate
-- **Portfolio Website:** [tanay-exe.tiiny.site](https://tanay-exe.tiiny.site/)
+- **Portfolio Website:** [tanay-dev.netlify.app](https://tanay-dev.netlify.app/)
 - **Direct Email:** tanaybiswas705@gmail.com
 - **GitHub Profile:** [@tanaybiswas-exe](https://github.com/tanaybiswas-exe)
 
