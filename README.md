@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <a href="https://tanay-exe.tiiny.site/" target="_blank">
+    <a href="https://tanay-dev.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Explore_Portfolio-Click_Here-brightgreen?style=for-the-badge" alt="Portfolio">
     </a>
     <a href="mailto:tanaybiswas705@gmail.com">
