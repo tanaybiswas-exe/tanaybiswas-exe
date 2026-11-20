@@ -35,7 +35,7 @@
 
 ---
 
-## ⚡ Interactive Portfolio Highlights (`tanay-exe.tiiny.site`)
+## ⚡ Interactive Portfolio Highlights (`https://tanay-dev.netlify.app/`)
 My personal portfolio is crafted with advanced glassmorphism and modern web technologies, featuring:
 - 🌗 **Dynamic Themes:** Minimal Light & Cyber Cyan theme switcher.
 - 💻 **Interactive CLI Terminal:** A built-in terminal (`tanay@portfolio-cli:~$`) for exploring commands.
