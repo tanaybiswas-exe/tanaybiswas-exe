@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/h1r448mk/20260512-103126-2.jpg" alt="Tanay Biswas Bandhan" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;" />
+  #<img src="https://i.ibb.co/h1r448mk/20260512-103126-2.jpg" alt="Tanay Biswas Bandhan" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;" />
 
   # Hi there, I'm Tanay Biswas Bandhan 👋
   ### *Creative Software Engineer | Full-Stack Architect | UI/UX Enthusiast*
